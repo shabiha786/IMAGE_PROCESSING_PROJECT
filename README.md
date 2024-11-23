@@ -11,5 +11,4 @@ Powers advancements in AI, machine learning, and computer vision.
 
 
 ### IMAGE PROCESS:-
-
-![Uploading image_processs.jpg…]()
+![image_processs](https://github.com/user-attachments/assets/c5b3ee51-0b0a-451c-a66d-81da7c238d47)
